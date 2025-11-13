@@ -3,10 +3,10 @@
 This repository contains a simple, clear Java implementation of the Knuth–Morris–Pratt (KMP) algorithm for substring search.
 
 Files:
-- src/KMP.java : KMP implementation and example tests
-- sample_input_output.txt : example test inputs and expected outputs
-- REPORT.md : short report (implementation, tests, complexity)
-- commits.txt : suggested example commits for GitHub
+- src/KMP.java & src/Main.java : KMP implementation and example tests
+- input.txt & output.txt : example test inputs and expected outputs
+- README.md : short report (implementation, tests, complexity) #This file
+
 
 How to compile and run:
 1. Ensure you have Java installed (JDK 8+).
